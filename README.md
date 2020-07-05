@@ -1,6 +1,3 @@
-# template-that-im-using-4-C
-Good optional template for describing your work step by step.
-
 # 第一学期的北邮计导作业五
 
 ## 总结
