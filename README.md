@@ -1,7 +1,7 @@
 # template-that-im-using-4-C
 Good optional template for describing your work step by step.
 
-# (Name of Work)
+# 第一学期的北邮计导作业五
 
 ## 总结
   - [开始](#开始)
@@ -19,16 +19,18 @@ Good optional template for describing your work step by step.
 ### 正在安装
 使用控制台打开exe文件(windows)
 
-	(name of file).exe
+	实验5_11_设计函数isPerfect与printPerfect.exe
 	
 ## 运行测试
 
 #### 注意: 
 开始
 
-- 输出
-	
 - 输入
+
+		
+	
+- 输出
 
 结束
 
@@ -56,4 +58,3 @@ Alpha版本 1.0
 ## 致谢
 
 - 大学: 北京邮电大学
-
