@@ -58,6 +58,7 @@
 ## 部署方式
 您可以使用复制粘贴使用此代码
 
+- 为了找到Perfect number.
 
 ## 建于
 使用DevCpp+编写的代码  https://sourceforge.net/projects/orwelldevcpp/
